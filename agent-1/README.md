@@ -1,1 +1,1 @@
-"# open-ai-agents-sdk-projects" 
+This is a simple agent.
